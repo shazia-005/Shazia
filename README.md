@@ -41,23 +41,23 @@ Live Server Extension (optional, in VS Code for real-time preview)
 Project Documentation
 For Software:
 
-Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name) Add caption explaining what this shows
+Screenshots
+![Screenshot1
 https://github.com/shazia-005/Shazia/commit/e388e24a38d36d737e67e626579ac8476f4e9288
 gives option to edit ingrediant list
-![Screenshot2](Add screenshot 2 here with proper name) Add caption explaining what this shows
+![Screenshot2
 https://github.com/shazia-005/Shazia/commit/8176da7dca236995c3e776bbed5e25ab14489cd8
 provides checklist
-![Screenshot3](Add screenshot 3 here with proper name) Add caption explaining what this shows
+![Screenshot3]
 https://github.com/shazia-005/Shazia/commit/8176da7dca236995c3e776bbed5e25ab14489cd8
 gives the finished list to user
-Diagrams
+
 
 
 
 
 Build Photos
-![Team](Add photo of your team here)
+![Team]
 https://github.com/shazia-005/Shazia/commit/a20d93a37eec22c75393e1ecff8ebe443dc2c1b7
 
 
